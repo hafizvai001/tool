@@ -298,7 +298,8 @@
     <main>
         <!-- Top Ad Unit -->
         <section id="ad-top">
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_AD_UNIT_ID"
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-7933778017690250/5540650028
+"
                     crossorigin="anonymous"></script>
             <ins class="adsbygoogle"
                  style="display:block"
@@ -334,7 +335,8 @@
 
         <!-- Bottom Ad Unit -->
         <section id="ad-bottom">
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-YOUR_AD_UNIT_ID"
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-app-pub-7933778017690250/2862515794
+"
                     crossorigin="anonymous"></script>
             <ins class="adsbygoogle"
                  style="display:block"
